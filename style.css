@@ -1,0 +1,30 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    font-family: cursive;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.aku{
+    color: blueviolet;
+}
+
+h4[value="2"]{
+    color: deeppink;
+}
+
+#id_warna{
+    color: brown;
+}
+
+*{
+    font-style: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
